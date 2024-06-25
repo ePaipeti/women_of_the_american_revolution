@@ -1,4 +1,4 @@
-# Data_Anlysis_Founders_Corpus
+### Computational Perspectives on Women's Political Evolution in the era of the American Revolutionary War (Founders Online Database)
 Different Data Analysis approaches for my Thesis
 
 Data
